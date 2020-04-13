@@ -1,7 +1,5 @@
 Hello
 X
 Y
-<<<<<<< HEAD
-ZYYY
-=======
->>>>>>> 3ca3f5dc99ecf4a3c32844a1de7c58decc9dea0e
+ZZ 
+
