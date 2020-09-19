@@ -3,5 +3,10 @@ Hello
 Add new line 3
 a
 Add new line ge
+<<<<<<< HEAD
  xxx
+=======
+
+xxx
+>>>>>>> db58814e60480a655ac8a892609a297fad38ade2
 
