@@ -1,4 +1,7 @@
 Hello
+<<<<<<< HEAD
 Add new line 3
 a
+Add new line ge
+
 
